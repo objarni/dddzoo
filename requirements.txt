@@ -1,0 +1,3 @@
+argparse==1.2.1
+pytddmon==1.0.5
+wsgiref==0.1.2
